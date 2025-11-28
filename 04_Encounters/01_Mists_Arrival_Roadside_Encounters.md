@@ -1,3 +1,0 @@
-# Roadside Encounters – Mists Arrival Segment
-
-...
