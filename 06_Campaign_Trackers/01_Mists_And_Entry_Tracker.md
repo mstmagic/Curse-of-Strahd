@@ -1,127 +1,132 @@
-# 1. Mists and Entry – Campaign Tracker
+# 1. Mists & Entry Phase – Campaign Tracker
 
-## 1.1 Purpose
+## 1.1 Scope
+- Covers from the moment the party is swallowed by the mists **up to** their first major landmark in Barovia (gates, roadside encounter site, or village outskirts).
 
-This tracker follows the party from the moment the mists appear until they reach the Old Svalich Road and the outskirts of Barovia Village. Use it to record choices, emotional beats, and every brush with Strahd.
+---
 
-## 1.2 Party Overview at Entry
+## 2. Party State Overview
 
-- Party Name / Group Nickname:
-- Real‑world Date of Session:
-- In‑Game Date / Time (if applicable):
-- Starting Location (before mists):
-- Party Level:
-- Party Composition:
-  - PC 1:
-  - PC 2:
-  - PC 3:
-  - PC 4:
-  - PC 5:
-  - Others:
+Use this section to snapshot the party at the moment they enter Barovia.
 
-## 1.3 Initial Hooks into Barovia
+### 2.1 Party Composition
+- **Player 1:**
+- **Player 2:**
+- **Player 3:**
+- **Player 4:**
+- **Player 5:**
 
-How did they get pulled in? Check all that apply and add notes.
+Record:
+- Class / Subclass
+- Level
+- Background
+- Primary emotional hooks (fears, loves, ambitions) to exploit later.
 
-- [ ] Mysterious letter from Barovia (Burgomaster’s letter)
-- [ ] Hired to investigate disappearances near the mists
-- [ ] Random encounter with fog bank
-- [ ] Magical experiment gone wrong
-- [ ] Pact or bargain (which patron/entity?):
-- [ ] Home town engulfed
-- [ ] Other: 
+### 2.2 Initial Conditions at Entry
+- Hit points (per character):
+- Exhaustion levels (if any):
+- Notable resources already spent (spell slots, potions, etc.):
 
-Notes:
+---
 
-## 1.4 Marching Order and Travel Habits
+## 3. Mists Interaction Log
 
-- Marching order when entering the mists:
-  - Front:
-  - Middle:
-  - Rear:
-- Light sources used (torches, magic, none):
-- Special precautions (ropes, markings, scouting, map‑making):
+Track each meaningful attempt to fight, study, or escape the mists.
 
-How the party generally behaves in the fog (paranoid, defiant, analytical, reckless):
+| # | Date / Session | Character(s) | Action Taken | Check / Save & DC | Result | Notes |
+|---|----------------|--------------|-------------|-------------------|--------|-------|
+| 1 |                |              |             |                   |        |       |
 
-## 1.5 Key Events Log
+[Reference: Suggested mechanics and flavor in `01_Narration_And_Dialog/01_Mists_And_Entry/02_First_Steps_Into_Barovia.md` section 3.1 and `05_Lookup_Tables/Mists_Arrival_Lookups.md`.]
 
-Use this to record each significant beat. Add timestamps or rough durations if you like.
+---
 
-| # | Event / Scene | Approx. Time | Description & Outcomes |
-|---|---------------|--------------|-------------------------|
-| 1 | First sight of the mists | | |
-| 2 | Attempts to avoid or escape the fog | | |
-| 3 | First navigation / Survival checks | | |
-| 4 | First exhaustion / fear / mist effect (if any) | | |
-| 5 | First appearance of distant rider silhouette (optional) | | |
-| 6 | First distinct wolf howls | | |
-| 7 | Any PC separated or lost | | |
-| 8 | Road through the mists emerges | | |
-| 9 | Transition to Old Svalich Road | | |
-| 10 | First Barovian landmark (gallows, gates, corpse) | | |
+## 4. Road & Forest Exploration Log
 
-Add more rows as needed.
+Track choices along the Old Svalich Road and forays into the forest.
 
-## 1.6 Strahd Interaction Log
+### 4.1 Travel Segments
 
-Every meaningful brush with Strahd—directly or indirectly—should be recorded here. This helps you track how personal the feud becomes.
+| Segment # | Approx. Distance / Time | Route Taken (Road / Forest / Other) | Events Triggered | Notes |
+|-----------|--------------------------|-------------------------------------|------------------|-------|
+| 1         |                          |                                     |                  |       |
 
-| # | Type (vision, omen, wolves, dreams, direct) | Scene Ref | PCs Targeted / Affected | Strahd’s Attitude (curious, amused, annoyed) | Notes |
-|---|--------------------------------------------|-----------|-------------------------|----------------------------------------------|------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+### 4.2 Key Discoveries
+- Roadside bodies, abandoned items, oddities (cross-ref `05_Lookup_Tables/Mists_Arrival_Lookups.md` section 1.4).
+- Tracks indicating other travelers.
+- Any hints toward nearby locations (e.g., Death House, village of Barovia).
 
-Scene references should point to specific files, e.g. `/04_Encounters/01_Mists_And_Entry/Strahd_Rider_On_The_Ridge.md`.
+---
 
-## 1.7 Mist Effects and Conditions
+## 5. Strahd Awareness & Interest
 
-If you choose to use mechanical effects for the mists, track them here.
+Use this to log when Strahd becomes more specifically aware of the party and how he reacts.
 
-Consult: `/05_Lookup_Tables/01_Mists_And_Entry/Mist_Effects_Table.md`.
+### 5.1 Awareness Milestones
 
-- Global mist rules in play this session:
-  - Example: "Leaving the road triggers a DC 15 Con save vs. 1 level of exhaustion."
+| # | Trigger Event | How Strahd Learns | Interest Level (Low/Med/High) | Planned Response |
+|---|---------------|-------------------|-------------------------------|------------------|
+| 1 | Party enters through mists | Innate sense of new souls | Low | Observe from afar |
 
-### 1.7.1 Exhaustion and Ongoing Conditions
+### 5.2 Strahd Observation Events
 
-| PC | Exhaustion Level | Other Conditions (frightened, charmed, cursed) | Notes |
-|----|------------------|-----------------------------------------------|-------|
-|    |                  |                                               |       |
-|    |                  |                                               |       |
+Log specific scenes where Strahd watches or interacts with the party.
 
-### 1.7.2 Psychological State & Roleplay Notes
+| # | Session | Scene (e.g., Rider, Laugh) | Direct or Indirect? | PCs Present | Notes |
+|---|---------|----------------------------|----------------------|------------|-------|
+| 1 |         |                            |                      |            |       |
 
-Use this to note how each character seems to be *emotionally* handling Barovia’s pull. This helps you tailor later horror and temptations.
+[Reference: Early examples in `01_Narration_And_Dialog/01_Mists_And_Entry/02_First_Steps_Into_Barovia.md` section 4.]
 
-| PC | Visible Mood (afraid, stoic, excited, numb) | Private Reactions (secrets revealed in RP) | Hooks to Exploit Later |
-|----|---------------------------------------------|---------------------------------------------|-------------------------|
-|    |                                             |                                             |                         |
+---
 
-## 1.8 Optional Mini‑Adventures Used
+## 6. NPC & Encounter Links
 
-As you run, you might insert short detours or "re‑tracking" adventures to re‑direct the party.
+### 6.1 NPCs Met During Mists & Entry
 
-See `/01_Narration_And_Dialog/01_Mists_And_Entry/Mini_Adventures_Index.md`.
+| NPC Name | Location / Scene | Attitude Toward Party | Secrets Known | Cross-Refs |
+|----------|------------------|-----------------------|---------------|-----------|
+|          |                  |                       |               |           |
 
-| # | Mini‑Adventure Title | File Ref | Why You Used It | Outcome / Lasting Effects |
-|---|----------------------|---------|------------------|----------------------------|
-| 1 | | | | |
-| 2 | | | | |
+### 6.2 Encounters Triggered
 
-## 1.9 Session Wrap‑Up Notes
+| # | Encounter Name | File Reference | Outcome | Notes |
+|---|----------------|----------------|---------|-------|
+| 1 |                | `04_Encounters/01_Mists_Arrival_Roadside_Encounters_Detailed.md` |         |       |
 
-At the end of each real‑world session that takes place in this phase, jot down what changed.
+---
 
-- PCs’ overall impression of Barovia so far:
-- Which PCs seem most shaken:
-- Which PCs seem most defiant or hopeful:
-- Promises made, bargains hinted at, or NPC names dropped:
-- Loose threads to pick up next time:
+## 7. Player Emotional & Roleplay Notes
 
-Next stop in the narrative:
-- [ ] Continue in the Mists
-- [ ] Roadside landmark (gallows, corpse, wagon)
-- [ ] Gates of Barovia
-- [ ] Outskirts of Barovia Village
+Record how each player is engaging with the horror tone and what hooks they respond to.
+
+### 7.1 Individual Reactions
+- **Player 1:**
+  - Fears / discomforts that came up:
+  - What they seemed to enjoy (mystery, combat, NPC interaction, etc.):
+- **Player 2:**
+- **Player 3:**
+- **Player 4:**
+- **Player 5:**
+
+### 7.2 Calibration Notes for Future Sessions
+- Increase/decrease intensity of gore?
+- Focus more on psychological dread or physical threat?
+- Any lines players indicated they do not want crossed?
+
+---
+
+## 8. Transition to Next Phase
+
+Use this section once the party reaches their **first major landmark** (gates, village, Death House hook, etc.).
+
+### 8.1 Where They End Up
+- First landmark reached:
+- Condition of party upon arrival (HP, resources, morale):
+
+### 8.2 Threads to Carry Forward
+- NPCs or entities now aware of the party.
+- Promises made by or to the party.
+- Fears you want to resurface later.
+
+[Next: Move to the appropriate narration file in `01_Narration_And_Dialog/01_Mists_Arrival/` or your chosen village/start location.]
