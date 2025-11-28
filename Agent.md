@@ -1,34 +1,37 @@
-# Agent Transcription Log
+Agent Log — Transcription Work
+
+Date: 2025-11-28
 
 Actions performed:
 
-- Inspected SourceMaterial directory and found the following PDF files:
-  - Curse of Strahd Book.pdf
-  - Curse of Strahd Handouts.pdf
-  - CurseofStrahdDM.pdf
-  - CurseofStrahdPG.pdf
-
-- Created transcription workspace directories and initial placeholder files for each PDF in SourceMaterial/:
+- Created directory placeholders (where absent) under SourceMaterial for each PDF set:
   - SourceMaterial/Curse of Strahd Book/
-    - README.md
-    - Chapters/01_Chapter_01.md
-    - Chapters/02_Chapter_02.md
   - SourceMaterial/Curse of Strahd Handouts/
-    - README.md
-    - Handouts/01_Handout_01.md
-    - Handouts/02_Handout_02.md
   - SourceMaterial/CurseofStrahdDM/
-    - README.md
-    - Chapters/01_DM_Notes_01.md
   - SourceMaterial/CurseofStrahdPG/
-    - README.md
-    - Chapters/01_PG_01.md
 
-- All created files are placeholders marking the start of transcription. Each README.md contains a link to the original PDF and a brief plan.
+- Created initial README and first-chapter/handout placeholder Markdown files in each directory to begin transcription.
 
-Next steps (to be executed offline or in further automated steps):
-- Extract text from each PDF and transcribe into the chapter/handout Markdown files.
-- Preserve formatting: headings, bold/italic, lists, tables, stat blocks, and images (images noted and saved separately).
-- Incrementally commit completed chapters and update the README files with page ranges and completion status.
+Files added or updated:
 
-Status: Work started — transcription placeholders created. Further transcription tasks pending automated PDF text extraction and manual review.
+- SourceMaterial/Curse of Strahd Book/00_Readme.md
+- SourceMaterial/Curse of Strahd Book/01_Chapter_01_Introduction.md
+- SourceMaterial/Curse of Strahd Handouts/00_Readme.md
+- SourceMaterial/Curse of Strahd Handouts/01_Handout_01.md
+- SourceMaterial/CurseofStrahdDM/00_Readme.md
+- SourceMaterial/CurseofStrahdDM/01_Chapter_01_DMNotes.md
+- SourceMaterial/CurseofStrahdPG/00_Readme.md
+- SourceMaterial/CurseofStrahdPG/01_Chapter_01_PlayerGuide.md
+
+Next steps (planned):
+
+1. Run OCR on each PDF and extract page ranges for chapterization.
+2. Populate chapter files sequentially with cleaned and proofread Markdown text.
+3. Add image assets (maps, handouts) into an images/ subfolder within each directory, referencing them in Markdown.
+4. Iterate on formatting to match the original structure, and preserve DM-only content in DM directories only.
+
+Notes and constraints:
+
+- This commit creates placeholders and documents the transcription plan. Full transcription requires OCR and manual cleanup; those steps will be performed in subsequent commits.
+
+Agent status: transcription scaffolding created; ready to proceed with OCR and detailed transcription.
