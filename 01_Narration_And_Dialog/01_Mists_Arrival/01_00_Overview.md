@@ -1,3 +1,0 @@
-# 01.00 – Mists Arrival Overview
-
-...
