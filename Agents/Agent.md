@@ -8,4 +8,9 @@
 - Reviewed existing repository layout and confirmed presence of `SourceMaterial` PDFs
 - Reviewed existing agent notes for Master DM, New DM, Player, and Editor to align with expectations
 - Created initial index files for narration/dialog, NPCs, monsters, encounters, lookup tables, and campaign trackers
-- Next: Flesh out Area 00: The Mists with detailed boxed text, roleplay prompts, and Strahd foreshadowing; then expand NPC dossiers and encounter structures.
+- Built detailed Area 00: The Mists narration file with:
+  - Boxed text for entering and traveling through the Mists
+  - Common player actions with suggested DM responses and light mechanics
+  - Foreshadowing of Strahd via disembodied presence and optional rider
+  - Three retracking mini-adventures to funnel players back toward Barovia while adding roleplay and tension
+- Next: Create narration files for the Gates of Barovia and Village of Barovia approach; begin global NPC dossiers for key figures (Ismark, Ireena, Kolyan, villagers) and first encounters index entries.
