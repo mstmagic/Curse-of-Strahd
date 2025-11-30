@@ -1,61 +1,109 @@
-# Campaign Progress Tracking
+# Campaign Progress
+
+This file tracks the status and review of each written campaign section.
 
 ## Legend
+- **Status**: Not Started / Draft / In Review / Revisions / Complete
+- **Scores**: 0–10 (10 is highest)
 
-- **Status**
-  - `Not Started`
-  - `In Progress`
-  - `Ready for Review`
-  - `Revisions Needed`
-  - `Completed`
+## Sections
 
-- **Roles**
-  - **Writer (W)** – Creates and maintains campaign text and file structure.
-  - **Master Dungeon Master (MDM)** – Lore, tone, and entertainment quality.
-  - **Inexperienced Dungeon Master (IDM)** – Clarity, ease of use for new DMs.
-  - **Player (P)** – Fun, engagement, and play experience.
-  - **Editor (E)** – Fidelity to original book text, formatting, and instructions.
+### 01-Into-the-Mists-and-Death-House-Overview.md
+- **Description**: High-level overview of entering Barovia, the Mists, and the role of Death House as an intro adventure.
+- **Status**: In Review
+- **Scores & Notes**:
+  - Writer: 8/10 – Solid structure and tone; may need more Strahd hook callouts once later sections are finalized.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
-Each section row includes **scores out of 10** and **notes** for each role.  
-Only the role owner should edit their own score and notes. The Writer manages layout and statuses.
+### 02-Into-the-Mists-Scene-By-Scene.md
+- **Description**: Detailed step-by-step journey into the Mists and first arrival outside Barovia.
+- **Status**: In Review
+- **Scores & Notes**:
+  - Writer: 8/10 – Very detailed for a new DM; consider adding one more explicit safety-valve path if the party stalls.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
----
+### 03-Death-House-Exterior.md
+- **Description**: Approaching Death House, exterior scenes, children encounter, and entry options.
+- **Status**: In Review
+- **Scores & Notes**:
+  - Writer: 8/10 – Strong atmosphere and roleplay guidance; may refine some player-choice branches after internal playtest.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
-## Section Table
+### 04-Death-House-Interior-Ground-Floor.md
+- **Description**: Ground floor exploration of Death House with scripted narration, NPC echoes, and first hazards.
+- **Status**: In Review
+- **Scores & Notes**:
+  - Writer: 8/10 – Good balance of tension and information; check monster references once full house path is locked.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
-| # | File / Section | Level Range | Status | W Score | W Notes | MDM Score | MDM Notes | IDM Score | IDM Notes | P Score | P Notes | E Score | E Notes |
-|---|----------------|------------|--------|---------|---------|-----------|-----------|-----------|-----------|---------|---------|---------|---------|
-| 1 | 01-Into-the-Mists-and-Death-House-Overview.md | 1 | Ready for Review |  |  |  |  |  |  |  |  |  |  |
-| 2 | 02-Into-the-Mists-Scene-By-Scene.md | 1 | Ready for Review |  |  |  |  |  |  |  |  |  |  |
-| 3 | 03-Death-House-Exterior.md | 1–2 | Ready for Review |  |  |  |  |  |  |  |  |  |  |
-| 4 | 04-Death-House-Interior-Ground-Floor.md | 1–2 | Ready for Review |  |  |  |  |  |  |  |  |  |  |
-| 5 | 05-Death-House-Interior-Upper-Floors-Part-1.md | 1–2 | Ready for Review |  |  |  |  |  |  |  |  |  |  |
-| 6 | 06-Death-House-Interior-Upper-Floors-Part-2.md | 1–2 | Ready for Review |  |  |  |  |  |  |  |  |  |  |
-| 7 | 07-Death-House-Attic-and-Nursery.md | 2 | Ready for Review |  |  |  |  |  |  |  |  |  |  |
-| 8 | 08-Death-House-Basement-and-Ritual-Chamber-Part-1.md | 2 | In Progress |  |  |  |  |  |  |  |  |  |  |
+### 05-Death-House-Interior-Upper-Floors-Part-1.md
+- **Description**: First half of the upper floors, including early hauntings and exploration.
+- **Status**: In Review
+- **Scores & Notes**:
+  - Writer: 8/10 – Provides strong prompts for hesitant groups; verify pacing once attic material is complete.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
----
+### 06-Death-House-Interior-Upper-Floors-Part-2.md
+- **Description**: Second half of upper floors, deepening horror and clues toward the cult and basement.
+- **Status**: In Review
+- **Scores & Notes**:
+  - Writer: 8/10 – Horror tone consistent; ensure all clues align perfectly with basement revelations.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
-## Notes by Role
+### 07-Death-House-Attic-and-Nursery.md
+- **Description**: Attic exploration, nursery, and children’s room, including heavy roleplay with the children’s spirits.
+- **Status**: In Review
+- **Scores & Notes**:
+  - Writer: 8/10 – Emotionally strong; verify that safety tools are mentioned in any session-zero guidance document.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
-### Writer General Notes
+### 08-Death-House-Basement-and-Ritual-Chamber-Part-1.md
+- **Description**: Initial basement exploration, crypts, and approach to the ritual chamber (build-up).
+- **Status**: In Review
+- **Scores & Notes**:
+  - Writer: 8/10 – Good dread build; Part 2 will finalize balance of danger vs. fairness.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
-- Death House structure established as a sequence of highly-scripted, map-pin-ready files for inexperienced DMs.
-- Tone kept faithful to *Curse of Strahd*: oppressive, tragic, and gothic horror with strong focus on Strahd as a distant, watching presence.
-- Further basement material (cells, cult quarters, ritual chamber, shambling mound) to be added in `08-Death-House-Basement-and-Ritual-Chamber-Part-2.md` and subsequent files.
+### 09-Death-House-Basement-and-Ritual-Chamber-Part-2.md
+- **Description**: Ritual climax, shambling mound encounter, and Death House awakening/escape sequence.
+- **Status**: Draft
+- **Scores & Notes**:
+  - Writer: 7/10 – Solid first pass on pacing the climax; may require more explicit "easy mode" and "hard mode" toggles.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
 
-### Master Dungeon Master Notes
-
-- Use this space for overall campaign-structure comments once several sections are reviewed.
-
-### Inexperienced Dungeon Master Notes
-
-- Please highlight any places where instructions are unclear or where more explicit step-by-step guidance is needed.
-
-### Player Notes
-
-- Focus feedback on whether scenes feel engaging, give you meaningful choices, and make Barovia feel alive.
-
-### Editor Notes
-
-- Track any inconsistencies with the Curse of Strahd source material or this repository’s style guide (`agents/writtersguid.md`).
+### 10-Post-Death-House-Aftermath-and-Transition-to-Barovia.md
+- **Description**: Aftermath outside Death House, grief and reflection, first optional Strahd observation, and guidance toward the Village of Barovia.
+- **Status**: Draft
+- **Scores & Notes**:
+  - Writer: 7/10 – Framework in place; needs additional Barovia street color and one more Strahd hook.
+  - Master DM: _TBD_
+  - Inexperienced DM: _TBD_
+  - Player: _TBD_
+  - Editor: _TBD_
