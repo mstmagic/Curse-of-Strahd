@@ -1,15 +1,92 @@
-# Campaign Progress Tracker
+# Campaign Progress Tracking
 
-| Section File | Description | Writer Status | Writer Score & Notes | Master DM Score & Notes | Inexperienced DM Score & Notes | Player Score & Notes | Editor Score & Notes |
-|-------------|-------------|---------------|------------------------|--------------------------|-------------------------------|----------------------|-----------------------|
-| 01-Into-the-Mists-and-Death-House-Overview.md | Campaign entry into Barovia, mists trapping, Death House overview | Writer: Marked complete | Score: 8/10 - Strong atmospheric overview and clear structure. Could use a couple of explicit "if players do X instead" sidebars per scene. | Score: 9/10 - Tone matches Curse of Strahd well, Strahd's presence feels appropriate but not overused. | Score: 7/10 - Good guidance but some paragraphs are long; add a few more explicit "Say this:" vs "Do this:" markers for brand-new DMs. | Score: 8/10 - Feels creepy and engaging; Death House hook is compelling. | Score: 8/10 - Generally matches lore; minor wording polish only. |
-| 02-Into-the-Mists-Scene-By-Scene.md | Fully scripted step‑by‑step journey into the mists and to the village | Writer: Marked complete | Score: 9/10 - Very detailed, lots of prompts and branching. | Score: 9/10 - Lore and pacing are strong; Strahd touchpoints feel on-theme. | Score: 6/10 - Dense and intimidating at first glance. Needs clearer sub‑headers, maybe numbered steps per micro‑scene, and a short "Read this only" script for nervous DMs. | Score: 8/10 - Lots of opportunities to interact and roleplay; feels like a real journey. | Score: 8/10 - Accurate to book events; a few small spots could cross‑reference original page numbers more clearly. |
-| 03-Death-House-Exterior.md | Outside approach, children hook, street atmosphere | Writer: Marked complete | Score: 9/10 - Excellent scene setting, strong child NPC voices. | Score: 9/10 - Fits Death House tone, Rose/Thorn characterization feels correct. | Score: 7/10 - Good use of bold "Read Aloud" but could benefit from a one‑paragraph "If players ignore the house" flow note. | Score: 8/10 - Feels spooky and intriguing; kids are memorable. | Score: 9/10 - Faithful to book details, with enriching but not conflicting additions. |
-| 04-Death-House-Interior-Ground-Floor.md | First exploration inside Death House, ground floor rooms | Writer: Marked complete | Score: 9/10 - Room‑by‑room breakdown is strong, lots of player prompts and sensory details. | Score: 9/10 - Horror tone and pacing align with module; encounters and hazards track correctly. | Score: 6/10 - Still a bit text‑heavy for a brand‑new DM. Recommend adding quick‑reference bullet summaries at the start of each room, and highlighting key DCs/saves in a consistent style. | Score: 8/10 - Exploring feels tense and rewarding; good loot hooks and creepiness. | Score: 8/10 - Rules and lore consistent; layout and headings mostly follow the stated guide. |
+This file tracks each written campaign section, its status, and scores/notes from all five roles.
 
-Notes for Inexperienced DM Role (this file):
-- Focus on readability: short paragraphs, bullet points, and clearly marked **Read Aloud** vs **DM Only**.
-- Make saving throw information and DCs visually consistent (for example, bolding the DC and naming the ability).
-- Provide clear "If the players do something unexpected" sidebars where confusion is likely.
+## Legend
+- **Status**: Not Started / Draft / In Review / Revisions Needed / Completed
+- **Scores**: Each role rates 1–10 (10 = highest). A section is **Completed** once:
+  - Writer confirms it is complete, **and**
+  - Each role scores it **5 or more**, **and**
+  - The average score across all four reviewing roles is **7 or more**.
 
-As Inexperienced Dungeon Master, current overall impression: the written campaign is promising and flavorful but occasionally overwhelming for a first‑time DM. Iterative passes that carve out quick‑reference chunks will make it much more approachable at the table.
+## Sections
+
+### 01-Into-the-Mists-and-Death-House-Overview.md
+- **Status**: In Review
+- **Writer Notes**: Initial overview drafted to guide new DM from mist entry through Death House option.
+- **Master Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Inexperienced Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Player**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Editor**
+  - Score: _TBD_
+  - Notes: _TBD_
+
+### 02-Into-the-Mists-Scene-By-Scene.md
+- **Status**: In Review
+- **Writer Notes**: Fully scripted, scene-by-scene mist entry and Barovia arrival for a low-experience DM.
+- **Master Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Inexperienced Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Player**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Editor**
+  - Score: _TBD_
+  - Notes: _TBD_
+
+### 03-Death-House-Exterior.md
+- **Status**: In Review
+- **Writer Notes**: Exterior approach to the Death House with children encounter and atmospheric buildup.
+- **Master Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Inexperienced Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Player**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Editor**
+  - Score: _TBD_
+  - Notes: _TBD_
+
+### 04-Death-House-Interior-Ground-Floor.md
+- **Status**: In Review
+- **Writer Notes**: Ground floor exploration with detailed room-by-room narration and prompts.
+- **Master Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Inexperienced Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Player**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Editor**
+  - Score: _TBD_
+  - Notes: _TBD_
+
+### 05-Death-House-Interior-Upper-Floors-Part-1.md
+- **Status**: Draft
+- **Writer Notes**: First half of the upper floors (staircase transition, second-floor hall, and several rooms) fully scripted for a new DM.
+- **Master Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Inexperienced Dungeon Master**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Player**
+  - Score: _TBD_
+  - Notes: _TBD_
+- **Editor**
+  - Score: _TBD_
+  - Notes: _TBD_
