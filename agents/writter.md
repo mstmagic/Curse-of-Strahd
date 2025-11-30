@@ -1,15 +1,12 @@
 # Writer Log
 
-## Session 1 – Into the Mists & Death House (Revision)
+## Session 2 – Extension Planning
+- Reviewed existing campaign files `01-Into-the-Mists-and-Death-House.md` and `02-Village-of-Barovia-and-First-Night.md` to ensure continuity.
+- Confirmed that the Curse of Strahd source markdown files are not yet present in `SourceMaterial/Curse of Stahd Book Markdown`, so lore alignment will rely on prior written material and rules-as-written knowledge.
+- Planned additional Strahd interaction points, optional side treks, and stronger hand-holding for an inexperienced DM.
+- Next actions this session:
+  - Add at least one new early‑chapter file to `01-Campaign` in chronological, level‑appropriate order, focused on the Mists entry and lead‑in to Death House.
+  - Update `agents/progress.md` with the new section entry.
 
-- Reviewed existing campaign files:
-  - `01-Campaign/01-Into-the-Mists-and-Death-House.md`
-  - `01-Campaign/02-Village-of-Barovia-and-First-Night.md`
-- Confirmed overall structure matches the requested chronological, level-based progression.
-- Began expanding and revising Chapter 1 (“Into the Mists & Death House”) to increase hand-holding for a brand new DM:
-  - More explicit DM stage directions and acting notes.
-  - Clearer branching prompts and likely player responses.
-  - Additional Strahd touchpoints and foreshadowing.
-  - Added silence cues and roleplay pauses.
-
-Next: Deep expansion pass on `01-Into-the-Mists-and-Death-House.md` for even more verbatim narration, NPC guidance, and encounter clarity, then log changes and update `agents/progress.md` section status.
+## Completed This Session
+- (In progress) Drafting `01-Mists-Arrival-and-Death-House-Prelude.md` with detailed narration, NPC direction, prompts, and contingency branches.
