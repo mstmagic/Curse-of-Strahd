@@ -4,4 +4,4 @@ This table tracks each written section, its status, and scores from each reviewi
 
 | # | Section / File                                     | Writer Notes                                | Master DM Score | Inexp. DM Score | Player Score | Editor Score | Average | Status |
 |---|----------------------------------------------------|---------------------------------------------|-----------------|-----------------|-------------|-------------|---------|--------|
-| 1 | 01-Campaign/01-Into-the-Mists-and-Death-House.md  | Intro, Mists, and Death House walkthrough   | 8               | 7               | 0           | 7           | 5.5     | In Review (awaiting Player) |
+| 1 | 01-Campaign/01-Into-the-Mists-and-Death-House.md  | Intro, Mists, and Death House walkthrough   | 8               | 7               | 8           | 7           | 7.5     | Complete |
