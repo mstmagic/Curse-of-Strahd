@@ -1,8 +1,0 @@
-# Writer Progress Log
-
-| Section File Path                                                         | Description                                                            | Writer Notes                                      | Editor Score | Master DM Score | Inexperienced DM Score | Player Score | Complete? |
-|---------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------|-------------|-----------------|------------------------|-------------|----------|
-| 01-Campaign/01-Mists-Arrival-and-Death-House-Prelude.md                  | Initial entry into the mists and lead-in to Death House                | Existing; reviewed for continuity.               |             |                 |                        |             |          |
-| 01-Campaign/01-Into-the-Mists-and-Death-House.md                         | Full Death House experience and early Barovia transition               | Existing; reviewed for continuity.               |             |                 |                        |             |          |
-| 01-Campaign/02-Village-of-Barovia-and-First-Night.md                     | First arrival in the Village of Barovia and first night in the valley  | Existing; reviewed for continuity.               |             |                 |                        |             |          |
-| 01-Campaign/03-Village-of-Barovia-Church-Burgomaster-Funeral.md          | Church of Barovia, Doru encounter, burgomaster’s mansion, and funeral  | NEW stub created; full scripted content pending. |             |                 |                        |             |          |
