@@ -1,19 +1,41 @@
-# Writing Progress and Review Log
+# Campaign Progress Tracking
 
-## Sections
+This file tracks the creation and review of the campaign materials. The Writer manages the structure. Each role (Writer, Master DM, Inexperienced DM, Player, Editor) updates **only** their own score and notes.
 
-| # | Section | File(s) | Status | Writer Notes | Master DM Score /10 + Notes | Inexperienced DM Score /10 + Notes | Player Score /10 + Notes | Editor Score /10 + Notes |
-|---|---------|---------|--------|-------------|-----------------------------|------------------------------------|---------------------------|---------------------------|
-| 1 | Into the Mists & Death House Overview | 01-Into-the-Mists-and-Death-House-Overview.md | In Progress | Initial draft complete. | 8/10 – Strong thematic alignment with Curse of Strahd; tone, lore, and Strahd’s presence feel appropriate. Could benefit from clearer mechanical call-outs in a few places. | 6/10 – Generally easy to follow, but some scenes layer multiple options and sidebars together in a way that might overwhelm a brand new DM. Recommend clearer, bolded step-by-step “do this, then this” structure and more explicit reminders of what to read aloud vs. what is DM-only guidance. | 8/10 – Very atmospheric and engaging; gives players plenty of roleplay hooks and mystery. Some scenes might run long; consider adding short “if the table stalls, jump to…” shortcuts. | 7/10 – Appears faithful to the source book’s intent and structure. Some added optional encounters may need explicit labels to avoid level/CR spikes. |
-| 2 | Into the Mists – Scene by Scene | 02-Into-the-Mists-Scene-By-Scene.md | In Progress | Initial draft complete. | 8/10 – Scene order, tone, and lore feel right; good Strahd foreshadowing. Consider slightly tightening where multiple Strahd options are layered. | 7/10 – Scene numbering, headers, and prompts are helpful. A few dense paragraphs combine narration, rules, and options; suggest more bullet lists and boxed text markers to reduce cognitive load. | 8/10 – Lots of vivid sensory detail and interaction prompts. Potential for analysis paralysis if every option is used; might mark a recommended “default path” for new tables. | 8/10 – Rules and lore appear accurate for travel through the mists into Barovia. No obvious contradictions with published material. |
-| 3 | Death House – Exterior | 03-Death-House-Exterior.md | In Progress | Initial draft complete. | 9/10 – Atmosphere, kids, and house presentation are strongly in keeping with Death House. Strahd hooks and Barovian tone are excellent. | 7/10 – Clearer labeling of DM-only guidance vs. read-aloud text would help, especially around the children’s lies and truths. Overall, relatively easy to run once that’s clarified. | 9/10 – Very compelling and creepy; strong hooks to enter the house. Player reactions likely to be intense and memorable. | 8/10 – Well aligned to the book’s depiction of the Durst family and Death House setup. Minor naming/continuity checks recommended in a future pass. |
-| 4 | Death House – Interior Ground Floor | 04-Death-House-Interior-Ground-Floor.md | In Progress | Initial draft complete. | 8/10 – Room-by-room content and atmosphere feel right. Some mechanical notes (traps, checks) could be pulled into clearer bullet points. | 7/10 – For a new DM, this floor is mostly manageable, but the combination of lore, traps, and roleplay in certain rooms might become confusing; recommend adding quick-reference “At the Table” summaries for each room. | 8/10 – Exploration opportunities and tension are strong; players are likely to feel wary but curious. | 8/10 – Appears to follow the book’s layout and encounter structure with appropriate elaboration. |
-| 5 | Death House – Interior Upper Floors Part 1 | 05-Death-House-Interior-Upper-Floors-Part-1.md | In Progress | Initial draft complete. | 8/10 – The horror escalates appropriately and matches the book’s intended tone. Good use of Durst backstory. | 6/10 – The vertical movement and multiple rooms can be tricky; suggest map references and clearer transition text (“Now read section X if they go up the stairs,” etc.). | 8/10 – The creep factor is high and there are strong roleplay and investigation beats. | 8/10 – Consistent with the published Death House structure. No major lore or rules deviations noticed. |
+Scoring rules per section:
+- Each role scores from **1–10** (10 = excellent).
+- A section is **complete** when:
+  - The Writer marks it complete, **and**
+  - Each of the four reviewing roles scores **5 or more**, **and**
+  - The average of all five scores is **7 or more**.
 
-## Notes
-- This table will be updated as more sections are written and reviewed.
-- A section is considered complete once:
-  - The writer confirms it is complete, AND
-  - Each role provides a score of 5 or more, AND
-  - The average score is 7 or more.
-- Future reviewers should add new rows for new sections and update scores/notes as appropriate.
+---
+
+## Legend
+
+- **Status**:
+  - `Draft` – Initial writing in progress.
+  - `In Review` – Draft written, awaiting reviewer scores/notes.
+  - `Revisions` – Being revised based on feedback.
+  - `Complete` – Meets completion criteria.
+
+---
+
+## Section Table
+
+| # | File / Section | Description | Status | Writer Score & Notes | Master DM Score & Notes | Inexperienced DM Score & Notes | Player Score & Notes | Editor Score & Notes |
+|---|----------------|------------|--------|----------------------|-------------------------|---------------------------------|----------------------|-----------------------|
+| 1 | 01-Into-the-Mists-and-Death-House-Overview.md | High-level overview of the campaign start, mists, and Death House option. | In Review | Score: 8 – Solid overview; may expand Strahd hook options later. | Score: _ | Score: _ | Score: _ | Score: _ |
+| 2 | 02-Into-the-Mists-Scene-By-Scene.md | Step-by-step entry into Barovia through the mists with scripted scenes. | In Review | Score: 8 – Strong structure and DM prompts; may tweak pacing after play feedback. | Score: _ | Score: _ | Score: _ | Score: _ |
+| 3 | 03-Death-House-Exterior.md | Exterior approach to Death House, children outside, and entry options. | In Review | Score: 8 – Good sensory detail and roleplay depth; watch overall length vs. usability. | Score: _ | Score: _ | Score: _ | Score: _ |
+| 4 | 04-Death-House-Interior-Ground-Floor.md | Fully scripted ground floor exploration, NPC behaviors, and house tone. | In Review | Score: 8 – Dense but highly guided; may add a few more optional Strahd hooks later. | Score: _ | Score: _ | Score: _ | Score: _ |
+| 5 | 05-Death-House-Interior-Upper-Floors-Part-1.md | First portion of upper floors (second/third), stairs, and tension building. | In Review | Score: 8 – Effective buildup; ensure smooth handoff into attic scenes. | Score: _ | Score: _ | Score: _ | Score: _ |
+| 6 | 06-Death-House-Interior-Upper-Floors-Part-2.md | Attic, storage rooms, Rose and Thorn, dollhouse secret, and stair to basement. | Draft | Score: 8 – Strong emotional core with Rose/Thorn, clear prompts, and optional Strahd visions; basement handoff ready. | Score: _ | Score: _ | Score: _ | Score: _ |
+
+---
+
+## Notes for All Roles
+
+- Please read the relevant source material in `SourceMaterial/Curse of Stahd Book Markdown/` **before** scoring.
+- When updating this file, do **not** alter other roles’ scores or notes.
+- The Writer will adjust statuses (`Draft`, `In Review`, `Revisions`, `Complete`) based on progress and feedback.
