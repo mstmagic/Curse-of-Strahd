@@ -1,6 +1,7 @@
-# Agent Progress Tracking
+# Writer Progress
 
-| Section File                                        | Writer Status | Master DM Score | Inexperienced DM Score | Player Score | Editor Score | Notes |
-|-----------------------------------------------------|--------------|-----------------|------------------------|-------------|-------------|-------|
-| 01-Campaign/01-Into-the-Mists-and-Death-House.md   | Draft v1      | 8               | 9                      | 8           | 8           | Very strong hand-holding; consider adding quick scene-flow summary. |
-| 01-Campaign/02-Village-of-Barovia-and-First-Night.md| Outline       | 5               | 4                      | 5           | 5           | Needs much more detail to match Death House level of support. |
+| Section/File                                          | Status      | Writer Notes                                                                 | Master DM Score | Inexp. DM Score | Player Score | Editor Score |
+|------------------------------------------------------|-------------|------------------------------------------------------------------------------|-----------------|-----------------|-------------|--------------|
+| 01-Into-the-Mists-and-Death-House.md                | Drafted     | Full scripted intro from the Mists through Death House for level 1–2 party. |                 |                 |             |              |
+| 02-Village-of-Barovia-and-First-Night.md            | Drafted     | Scripted arrival in Barovia, Mad Mary, Ismark & Ireena, first-night setup.  |                 |                 |             |              |
+
