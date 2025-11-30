@@ -1,20 +1,16 @@
 # Writer Log
 
-## Entry – Attic and Nursery Section
+## Session 1 – Basement and Family Crypts (2025-11-30)
 
-- Date: 2025-11-30
-- Section: 07-Death-House-Attic-and-Nursery.md
-- Summary of Work:
-  - Added a fully scripted scene for the Death House attic and nursery, including:
-    - Step-by-step narration for entering and exploring the attic.
-    - Detailed roleplay guidance and dialog for Rose and Thorn.
-    - Investigation of storage rooms and servants’ quarters with optional loot and lore.
-    - Discovery and use of the dollhouse to locate the secret basement stairs.
-    - Emotional hooks tying the party to the children’s fate.
-    - Optional but rules-accurate handling of Rose/Thorn possession.
-    - Subtle foreshadowing of Strahd’s awareness.
-  - Ensured the writing assumes a brand-new DM who can read the text verbatim.
-- Notes for Other Roles:
-  - Check that tone and lore for Rose, Thorn, and Death House match the official Curse of Strahd appendix.
-  - Confirm that the level of scripting and prompts is sufficient for an inexperienced, low-confidence DM.
-  - Flag any places where more mechanical clarity (DCs, checks, rewards) would help.
+### Files Created/Updated
+
+1. `01-Campaign/08-Death-House-Basement-and-Ritual-Chamber-Part-1.md`
+   - Covers entry into the Death House basement, four-way junction, and Durst family crypts.
+   - Includes full narration, acting notes, NPC ghost dialogue (Rose & Thorn), Strahd attention hook, optional encounter, and campaign triggers.
+
+### Notes
+
+- Followed the existing formatting style of numbered headers and detailed read-aloud text.
+- Emphasized step-by-step guidance for an inexperienced DM, including likely player questions and DM responses.
+- Preserved book lore (Durst family, Death House basement layout, Rose & Thorn, Strahd’s distant influence) while expanding roleplay and descriptive content significantly.
+- Next writing target: `08-Death-House-Basement-and-Ritual-Chamber-Part-2.md` covering cells, cult quarters, and the final ritual chamber encounter.
