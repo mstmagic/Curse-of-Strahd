@@ -1,23 +1,15 @@
-# Agent Progress Tracker
+# Campaign Progress Tracker
 
-## Sections & Status
+| Section File | Description | Writer Status | Writer Score & Notes | Master DM Score & Notes | Inexperienced DM Score & Notes | Player Score & Notes | Editor Score & Notes |
+|-------------|-------------|---------------|------------------------|--------------------------|-------------------------------|----------------------|-----------------------|
+| 01-Into-the-Mists-and-Death-House-Overview.md | Campaign entry into Barovia, mists trapping, Death House overview | Writer: Marked complete | Score: 8/10 - Strong atmospheric overview and clear structure. Could use a couple of explicit "if players do X instead" sidebars per scene. | Score: 9/10 - Tone matches Curse of Strahd well, Strahd's presence feels appropriate but not overused. | Score: 7/10 - Good guidance but some paragraphs are long; add a few more explicit "Say this:" vs "Do this:" markers for brand-new DMs. | Score: 8/10 - Feels creepy and engaging; Death House hook is compelling. | Score: 8/10 - Generally matches lore; minor wording polish only. |
+| 02-Into-the-Mists-Scene-By-Scene.md | Fully scripted step‑by‑step journey into the mists and to the village | Writer: Marked complete | Score: 9/10 - Very detailed, lots of prompts and branching. | Score: 9/10 - Lore and pacing are strong; Strahd touchpoints feel on-theme. | Score: 6/10 - Dense and intimidating at first glance. Needs clearer sub‑headers, maybe numbered steps per micro‑scene, and a short "Read this only" script for nervous DMs. | Score: 8/10 - Lots of opportunities to interact and roleplay; feels like a real journey. | Score: 8/10 - Accurate to book events; a few small spots could cross‑reference original page numbers more clearly. |
+| 03-Death-House-Exterior.md | Outside approach, children hook, street atmosphere | Writer: Marked complete | Score: 9/10 - Excellent scene setting, strong child NPC voices. | Score: 9/10 - Fits Death House tone, Rose/Thorn characterization feels correct. | Score: 7/10 - Good use of bold "Read Aloud" but could benefit from a one‑paragraph "If players ignore the house" flow note. | Score: 8/10 - Feels spooky and intriguing; kids are memorable. | Score: 9/10 - Faithful to book details, with enriching but not conflicting additions. |
+| 04-Death-House-Interior-Ground-Floor.md | First exploration inside Death House, ground floor rooms | Writer: Marked complete | Score: 9/10 - Room‑by‑room breakdown is strong, lots of player prompts and sensory details. | Score: 9/10 - Horror tone and pacing align with module; encounters and hazards track correctly. | Score: 6/10 - Still a bit text‑heavy for a brand‑new DM. Recommend adding quick‑reference bullet summaries at the start of each room, and highlighting key DCs/saves in a consistent style. | Score: 8/10 - Exploring feels tense and rewarding; good loot hooks and creepiness. | Score: 8/10 - Rules and lore consistent; layout and headings mostly follow the stated guide. |
 
-| # | File / Section | Description | Status | Writer Notes | Writer Score (self) | Master DM Score | Master DM Notes | Inexperienced DM Score | Inexperienced DM Notes | Player Score | Player Notes | Editor Score | Editor Notes |
-|---|----------------|-------------|--------|--------------|----------------------|-----------------|-----------------|------------------------|------------------------|-------------|-------------|-------------|-------------|
-| 1 | 01-Into-the-Mists-and-Death-House-Overview.md | High-level overview of entering Barovia, the Mists, and using Death House as intro. | Complete (v1) | Initial structure and tone pass complete. Ready for critique. | 7/10 |  |  |  |  |  |  |  |  |
-| 2 | 02-Into-the-Mists-Scene-By-Scene.md | Scene-by-scene script for trapping the party in the mists and reaching Barovia village outskirts. | Complete (v1) | Very detailed; may need tightening after DM/Player feedback. | 8/10 |  |  |  |  |  |  |  |  |
-| 3 | 03-Death-House-Exterior.md | Exterior approach to Durst house, Rose & Thorn, street ambiance, and decision to enter. | Complete (v1) | Strong roleplay focus; pacing may be adjusted after table feedback. | 8/10 |  |  |  |  |  |  |  |  |
-| 4 | 04-Death-House-Interior-Ground-Floor.md | Full, step-by-step script for the entire ground floor of Death House. | Complete (v1) | Emphasis on non-lethal horror, house as a character, and support for shy/first-time DMs. Ready for all-role critique. | 9/10 |  |  |  |  |  |  |  |  |
+Notes for Inexperienced DM Role (this file):
+- Focus on readability: short paragraphs, bullet points, and clearly marked **Read Aloud** vs **DM Only**.
+- Make saving throw information and DCs visually consistent (for example, bolding the DC and naming the ability).
+- Provide clear "If the players do something unexpected" sidebars where confusion is likely.
 
-## Notes for Reviewers
-
-- **Order of Review:** Please prioritize sections 1–4, as they cover the campaign’s entry into Barovia and the initial Death House experience.
-- **Scoring Reminder:** A section is considered "complete" only when:
-  - The writer has marked it complete, **and**
-  - Each role has given a score of **5 or more**, **and**
-  - The **average score is 7 or more**.
-- **Critique Guidance:**
-  - **Master Dungeon Master:** Focus on lore accuracy, pacing, horror tone, and replay value.
-  - **Inexperienced Dungeon Master:** Flag anything confusing, intimidating, or under-explained.
-  - **Player:** Judge how engaging, scary, and motivating each section feels from a player’s seat.
-  - **Editor:** Ensure fidelity to the original *Curse of Strahd* text, rules correctness, and structural consistency with this GitHub project.
+As Inexperienced Dungeon Master, current overall impression: the written campaign is promising and flavorful but occasionally overwhelming for a first‑time DM. Iterative passes that carve out quick‑reference chunks will make it much more approachable at the table.
