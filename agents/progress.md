@@ -1,61 +1,19 @@
-# Agent Progress and Reviews
+# Writing Progress and Review Log
 
-## 01-Into-the-Mists-and-Death-House-Overview.md
-- Writer Status: Draft
-- Writer Notes: [object Object]
-- Master Dungeon Master Score: 0/10
-  - Notes: Not yet reviewed.
-- Inexperienced Dungeon Master Score: 6/10
-  - Notes: Structure is promising, but several instructions assume experience. Needs clearer, more linear procedure and more explicit read-aloud and "what do you do?" prompts. Some transitions between scenes are abrupt and could confuse a brand-new DM.
-- Player Score: 0/10
-  - Notes: Not yet reviewed.
-- Editor Score: 0/10
-  - Notes: Not yet reviewed.
+## Sections
 
-## 02-Into-the-Mists-Scene-By-Scene.md
-- Writer Status: Draft
-- Writer Notes: [object Object]
-- Master Dungeon Master Score: 0/10
-  - Notes: Not yet reviewed.
-- Inexperienced Dungeon Master Score: 7/10
-  - Notes: Very close to usable as a pin-by-pin script. Some sections still rely on DM improvisation (e.g., how to answer common rules questions, how to handle unexpected routes) and could use brief "If players do X, you do Y" bullet points. Silence prompts are present but could be more clearly marked so a nervous DM trusts them.
-- Player Score: 0/10
-  - Notes: Not yet reviewed.
-- Editor Score: 0/10
-  - Notes: Not yet reviewed.
+| # | Section | File(s) | Status | Writer Notes | Master DM Score /10 + Notes | Inexperienced DM Score /10 + Notes | Player Score /10 + Notes | Editor Score /10 + Notes |
+|---|---------|---------|--------|-------------|-----------------------------|------------------------------------|---------------------------|---------------------------|
+| 1 | Into the Mists & Death House Overview | 01-Into-the-Mists-and-Death-House-Overview.md | In Progress | Initial draft complete. | 8/10 – Strong thematic alignment with Curse of Strahd; tone, lore, and Strahd’s presence feel appropriate. Could benefit from clearer mechanical call-outs in a few places. | 6/10 – Generally easy to follow, but some scenes layer multiple options and sidebars together in a way that might overwhelm a brand new DM. Recommend clearer, bolded step-by-step “do this, then this” structure and more explicit reminders of what to read aloud vs. what is DM-only guidance. | 8/10 – Very atmospheric and engaging; gives players plenty of roleplay hooks and mystery. Some scenes might run long; consider adding short “if the table stalls, jump to…” shortcuts. | 7/10 – Appears faithful to the source book’s intent and structure. Some added optional encounters may need explicit labels to avoid level/CR spikes. |
+| 2 | Into the Mists – Scene by Scene | 02-Into-the-Mists-Scene-By-Scene.md | In Progress | Initial draft complete. | 8/10 – Scene order, tone, and lore feel right; good Strahd foreshadowing. Consider slightly tightening where multiple Strahd options are layered. | 7/10 – Scene numbering, headers, and prompts are helpful. A few dense paragraphs combine narration, rules, and options; suggest more bullet lists and boxed text markers to reduce cognitive load. | 8/10 – Lots of vivid sensory detail and interaction prompts. Potential for analysis paralysis if every option is used; might mark a recommended “default path” for new tables. | 8/10 – Rules and lore appear accurate for travel through the mists into Barovia. No obvious contradictions with published material. |
+| 3 | Death House – Exterior | 03-Death-House-Exterior.md | In Progress | Initial draft complete. | 9/10 – Atmosphere, kids, and house presentation are strongly in keeping with Death House. Strahd hooks and Barovian tone are excellent. | 7/10 – Clearer labeling of DM-only guidance vs. read-aloud text would help, especially around the children’s lies and truths. Overall, relatively easy to run once that’s clarified. | 9/10 – Very compelling and creepy; strong hooks to enter the house. Player reactions likely to be intense and memorable. | 8/10 – Well aligned to the book’s depiction of the Durst family and Death House setup. Minor naming/continuity checks recommended in a future pass. |
+| 4 | Death House – Interior Ground Floor | 04-Death-House-Interior-Ground-Floor.md | In Progress | Initial draft complete. | 8/10 – Room-by-room content and atmosphere feel right. Some mechanical notes (traps, checks) could be pulled into clearer bullet points. | 7/10 – For a new DM, this floor is mostly manageable, but the combination of lore, traps, and roleplay in certain rooms might become confusing; recommend adding quick-reference “At the Table” summaries for each room. | 8/10 – Exploration opportunities and tension are strong; players are likely to feel wary but curious. | 8/10 – Appears to follow the book’s layout and encounter structure with appropriate elaboration. |
+| 5 | Death House – Interior Upper Floors Part 1 | 05-Death-House-Interior-Upper-Floors-Part-1.md | In Progress | Initial draft complete. | 8/10 – The horror escalates appropriately and matches the book’s intended tone. Good use of Durst backstory. | 6/10 – The vertical movement and multiple rooms can be tricky; suggest map references and clearer transition text (“Now read section X if they go up the stairs,” etc.). | 8/10 – The creep factor is high and there are strong roleplay and investigation beats. | 8/10 – Consistent with the published Death House structure. No major lore or rules deviations noticed. |
 
-## 03-Death-House-Exterior.md
-- Writer Status: Draft
-- Writer Notes: [object Object]
-- Master Dungeon Master Score: 0/10
-  - Notes: Not yet reviewed.
-- Inexperienced Dungeon Master Score: 8/10
-  - Notes: Strong hand-holding and good use of numbered headers. NPC portrayal notes are clear. However, there is a lot of text per step; a new DM might struggle to find the next line quickly. Consider tighter labeling like "Read Aloud:" and "If players do this:" consistently, and possibly break some long paragraphs into smaller beats.
-- Player Score: 0/10
-  - Notes: Not yet reviewed.
-- Editor Score: 0/10
-  - Notes: Not yet reviewed.
-
-## 04-Death-House-Interior-Ground-Floor.md
-- Writer Status: Draft
-- Writer Notes: [object Object]
-- Master Dungeon Master Score: 0/10
-  - Notes: Not yet reviewed.
-- Inexperienced Dungeon Master Score: 7/10
-  - Notes: Content is rich and mostly step-by-step, but room-to-room flow could be clearer. A few conditional instructions (e.g., what if players skip a room, what if they split up) are under-specified. Add quick reference bullets for "When players enter this room…" and "When they leave this room…" to reduce decision paralysis.
-- Player Score: 0/10
-  - Notes: Not yet reviewed.
-- Editor Score: 0/10
-  - Notes: Not yet reviewed.
-
-## 05-Death-House-Interior-Upper-Floors-Part-1.md
-- Writer Status: Draft
-- Writer Notes: [object Object]
-- Master Dungeon Master Score: 0/10
-  - Notes: Not yet reviewed.
-- Inexperienced Dungeon Master Score: 6/10
-  - Notes: Very atmospheric, but the procedural clarity drops a bit compared to earlier files. Some NPC acting notes and likely player response sections are thinner or missing. For a brand-new DM, each notable object or NPC should come with an explicit "You say…" line and a short list of expected questions with answers.
-- Player Score: 0/10
-  - Notes: Not yet reviewed.
-- Editor Score: 0/10
-  - Notes: Not yet reviewed.
+## Notes
+- This table will be updated as more sections are written and reviewed.
+- A section is considered complete once:
+  - The writer confirms it is complete, AND
+  - Each role provides a score of 5 or more, AND
+  - The average score is 7 or more.
+- Future reviewers should add new rows for new sections and update scores/notes as appropriate.
