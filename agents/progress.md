@@ -1,5 +1,6 @@
-# Progress Tracker
+# Agent Progress Tracking
 
-| Section ID | File | Description | Writer Notes | Master DM Score | Inexperienced DM Score | Player Score | Editor Score | Status |
-|-----------|------|-------------|-------------|------------------|------------------------|--------------|--------------|--------|
-| 01 | 01-Campaign/01-Into-the-Mists-and-Death-House.md | Into the Mists & optional Death House (Level 1) | Scaffold created; needs full narrative, encounters, and Strahd hooks. |  |  |  |  | In Progress |
+| Section File                                        | Writer Status | Master DM Score | Inexperienced DM Score | Player Score | Editor Score | Notes |
+|-----------------------------------------------------|--------------|-----------------|------------------------|-------------|-------------|-------|
+| 01-Campaign/01-Into-the-Mists-and-Death-House.md   | Draft v1      | 8               | 9                      | 8           | 8           | Very strong hand-holding; consider adding quick scene-flow summary. |
+| 01-Campaign/02-Village-of-Barovia-and-First-Night.md| Outline       | 5               | 4                      | 5           | 5           | Needs much more detail to match Death House level of support. |
