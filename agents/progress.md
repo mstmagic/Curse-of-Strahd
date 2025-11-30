@@ -1,11 +1,5 @@
-# Section Progress and Scores
+# Progress Tracker
 
-This table tracks each written campaign section and the scores assigned by each reviewing role.
-A section is **completed** once:
-- Each role (Master DM, Inexperienced DM, Player, Editor) gives a score of **5 or more**, **and**
-- The **average** score is **7 or more**.
-
-| Section                                      | Master DM Score | Inexperienced DM Score | Player Score | Editor Score | Average | Completed? |
-|----------------------------------------------|-----------------|------------------------|-------------|-------------|---------|-----------|
-| 01 – Into the Mists and Death House          | 8               | 8                      | 8           | 8           | 8.0     | Yes       |
-| 02 – Village of Barovia and First Night      | –               | –                      | –           | –           | –       | No        |
+| Section ID | File | Description | Writer Notes | Master DM Score | Inexperienced DM Score | Player Score | Editor Score | Status |
+|-----------|------|-------------|-------------|------------------|------------------------|--------------|--------------|--------|
+| 01 | 01-Campaign/01-Into-the-Mists-and-Death-House.md | Into the Mists & optional Death House (Level 1) | Scaffold created; needs full narrative, encounters, and Strahd hooks. |  |  |  |  | In Progress |
