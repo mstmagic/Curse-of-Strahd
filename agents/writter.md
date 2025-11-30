@@ -1,16 +1,26 @@
 # Writer Log
 
-## Session 2025-11-30
+## Session Summary
 
-### Objective
-Begin expanding the step-by-step campaign guide for Curse of Strahd, focusing on the Into the Mists opening and the optional Death House, tailored for an inexperienced DM with full narration and dialog.
+- Reviewed source material: *Curse of Strahd Book-02-Chapter 1 Into the Mists* and existing campaign file `01-Into-the-Mists-and-Death-House.md`.
+- Confirmed overall structure and tone to match official Curse of Strahd lore.
+- Planned expansion of early campaign content for new DMs, focusing on into-the-mists trapping sequence and Death House, with exhaustive narration, dialogue, and prompts.
 
-### Actions Taken
-1. Reviewed existing source material: "Curse of Strahd Book-02-Chapter 1 Into the Mists.md" and "Curse of Strahd Book-19-Apendix B Death House.md" to ensure lore accuracy.
-2. Reviewed existing campaign file: "01-Campaign/01-Into-the-Mists-and-Death-House.md" to understand current structure and tone.
-3. Planned restructuring of the opening file into numbered sections with explicit narration, acting notes, NPC guidance, likely player responses, encounters, and Strahd interaction hooks.
-4. Prepared to overwrite and greatly expand the first campaign file to exceed the source text by at least two orders of magnitude, while preserving lore.
+## Work Completed This Session
 
-### Next Steps
-- Fully rewrite and expand `01-Into-the-Mists-and-Death-House.md` with detailed DM-facing scripting, including the mists entrapment sequence and the entire Death House experience.
-- Update `agents/progress.md` with a new entry for this section and mark its initial draft status.
+1. Outlined revisions and expansions for `01-Into-the-Mists-and-Death-House.md` to better support inexperienced DMs:
+   - Clearer step-by-step scene instructions in strict chronological and level order.
+   - Richer sensory description of the Mists and Barovia’s oppressive atmosphere.
+   - More specific acting and voice notes for key NPCs.
+   - Additional Strahd touchpoints that remain faithful to the book’s portrayal and timelines.
+   - Optional side hooks to re-track wandering parties without breaking the main story arc.
+
+2. Prepared to add and/or expand:
+   - Player prompt lists (both "What do you do?" and silence prompts).
+   - Anticipated player responses and suggested DM replies.
+   - More explicit encounter layouts, saving throw calls, and treasure details.
+
+## Next Actions
+
+- Expand and, where appropriate, revise `01-Into-the-Mists-and-Death-House.md` to increase clarity and depth for new DMs while preserving module-accurate lore and structure.
+- Begin planning structure for subsequent location files to maintain chronological, level-appropriate progression.
