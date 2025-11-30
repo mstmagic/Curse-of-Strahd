@@ -1,6 +1,6 @@
 # Writer Log
 
 ## 2025-11-30
-- Created initial `agents/writtersguid.md` writer's guide to standardize campaign expansion style and structure.
-- Reviewed source material directory layout under `SourceMaterial/Curse of Stahd Book Markdown`.
-- Next: create `agents/progress.md` and begin `01-Campaign` directory with early-level Barovia entry sequence (mists + Death House).
+- Read `agents/writtersguid.md` to align with existing writing standards.
+- Reviewed existing campaign file `01-Campaign/01-Into-the-Mists-and-Death-House-Overview.md`.
+- Planned detailed, step-by-step scripting for the first in-mist encounter and Death House approach, ensuring full narration, NPC guidance, and Strahd hooks for a brand-new DM.
