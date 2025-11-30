@@ -1,7 +1,8 @@
-# Campaign Writing Progress
+# Writer Progress Log
 
-| # | File Name                                                | Location/Chapter                               | Writer Status | Master DM Score | Inexperienced DM Score | Player Score | Editor Score | Completed? |
-|---|----------------------------------------------------------|-----------------------------------------------|--------------|-----------------|------------------------|-------------|-------------|-----------|
-| 1 | 01-Into-the-Mists-and-Death-House.md                    | Into the Mists & Death House (Levels 1–3)     | Done         |                 |                        |             |             |           |
-| 2 | 02-Village-of-Barovia-and-First-Night.md                | Village of Barovia & First Night (Levels 3–4) | Done         |                 |                        |             |             |           |
-| 3 | 01-Mists-Arrival-and-Death-House-Prelude.md             | Initial Mists Hook & Death House Prelude      | Drafting     |                 |                        |             |             |           |
+| Section File Path                                                         | Description                                                            | Writer Notes                                      | Editor Score | Master DM Score | Inexperienced DM Score | Player Score | Complete? |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------|-------------|-----------------|------------------------|-------------|----------|
+| 01-Campaign/01-Mists-Arrival-and-Death-House-Prelude.md                  | Initial entry into the mists and lead-in to Death House                | Existing; reviewed for continuity.               |             |                 |                        |             |          |
+| 01-Campaign/01-Into-the-Mists-and-Death-House.md                         | Full Death House experience and early Barovia transition               | Existing; reviewed for continuity.               |             |                 |                        |             |          |
+| 01-Campaign/02-Village-of-Barovia-and-First-Night.md                     | First arrival in the Village of Barovia and first night in the valley  | Existing; reviewed for continuity.               |             |                 |                        |             |          |
+| 01-Campaign/03-Village-of-Barovia-Church-Burgomaster-Funeral.md          | Church of Barovia, Doru encounter, burgomaster’s mansion, and funeral  | NEW stub created; full scripted content pending. |             |                 |                        |             |          |
