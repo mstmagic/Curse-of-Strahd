@@ -1,31 +1,20 @@
 # Writer Log
 
-## Session 1 – Initial Campaign Framework
-- Reviewed project structure and existing agents files.
-- Read `writtersguid.md` to align with style and structural expectations.
-- Skimmed initial Curse of Strahd markdown source to refresh lore and tone.
-- Created campaign files and outlined the early sequence:
-  - `01-Into-the-Mists-and-Death-House-Overview.md`
-  - `02-Into-the-Mists-Scene-By-Scene.md`
-  - `03-Death-House-Exterior.md`
-  - `04-Death-House-Interior-Ground-Floor.md`
-  - `05-Death-House-Interior-Upper-Floors-Part-1.md`
-- Focused on: highly guided narration, explicit DM prompts, NPC acting notes, and player‑choice branches.
+## Entry – Attic and Nursery Section
 
-## Session 2 – Death House Upper Floors, Part 2
-- Re‑read relevant Death House attic sections from the source markdown to ensure lore alignment.
-- Planned structure for continuing the upper floors and leading cleanly into the basement.
-- Wrote `06-Death-House-Interior-Upper-Floors-Part-2.md`, covering:
-  - Return to the third floor and discovery of the attic secret door.
-  - Attic stair and landing atmosphere, exploration of storage rooms.
-  - The children’s room with Rose and Thorn: full dialogue, acting notes, and roleplay hooks.
-  - Investigation of the dollhouse as a map and discovery of the real secret passage.
-  - Discovery of the children’s remains and optional possession scene.
-  - Preparation to descend into the basement, with optional Strahd‑flavored visions/whispers.
-- Emphasized:
-  - Step‑by‑step narration and clear prompts for a very inexperienced DM.
-  - Multiple likely player responses with suggested DM replies.
-  - Optional Strahd interaction hooks that stay lore‑appropriate.
-
-Next planned work:
-- Begin `07-Death-House-Basement-Part-1.md`, starting from the top of the hidden stair and the first areas of the cult’s domain.
+- Date: 2025-11-30
+- Section: 07-Death-House-Attic-and-Nursery.md
+- Summary of Work:
+  - Added a fully scripted scene for the Death House attic and nursery, including:
+    - Step-by-step narration for entering and exploring the attic.
+    - Detailed roleplay guidance and dialog for Rose and Thorn.
+    - Investigation of storage rooms and servants’ quarters with optional loot and lore.
+    - Discovery and use of the dollhouse to locate the secret basement stairs.
+    - Emotional hooks tying the party to the children’s fate.
+    - Optional but rules-accurate handling of Rose/Thorn possession.
+    - Subtle foreshadowing of Strahd’s awareness.
+  - Ensured the writing assumes a brand-new DM who can read the text verbatim.
+- Notes for Other Roles:
+  - Check that tone and lore for Rose, Thorn, and Death House match the official Curse of Strahd appendix.
+  - Confirm that the level of scripting and prompts is sufficient for an inexperienced, low-confidence DM.
+  - Flag any places where more mechanical clarity (DCs, checks, rewards) would help.
