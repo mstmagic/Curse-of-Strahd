@@ -1,85 +1,191 @@
-# Writer's Guide for Curse of Strahd Campaign Expansion
+# Writer’s Guide – Curse of Strahd Campaign Expansion
 
-1. Purpose
-   - Provide ultra-detailed, step-by-step, read-aloud friendly material for an inexperienced, low-confidence DM.
-   - Maintain strict fidelity to Curse of Strahd lore, tone, geography, NPC motivations, and timelines.
+This guide defines how all Writer agents should structure and present the expanded Curse of Strahd campaign for an inexperienced Dungeon Master (DM). Follow this for consistency.
 
-2. General Style
-   1. All files are Markdown.
-   2. Headings use numeric progression starting at 1 for top-level sections (e.g., `# 1. Title`, `## 1.1. Subtitle`, `### 1.1.1. Detail`).
-   3. Voice is descriptive Gothic horror with moments of tragic humanity and rare dark humor.
-   4. Keep rules text compatible with 5e and the printed Curse of Strahd book.
+---
 
-3. File Structure
-   1. One file per location, chapter, adventure, or discrete adventure step.
-   2. Files are organized chronologically and by expected character level progression.
-   3. Each file contains, at minimum:
-      - Narration blocks clearly labeled as **Read-Aloud**.
-      - DM-only sidebars labeled **DM Note**.
-      - Complete scripted NPC dialog.
-      - Acting and voice notes for major NPCs and monsters.
-      - Likely player questions/responses and suggested DM replies.
-      - Encounters with enemy lists, stat references, and battlefield guidance.
-      - Saving throws and skill checks with DC suggestions.
-      - Loot and prices consistent with setting scarcity.
-      - Campaign triggers and Strahd interaction hooks.
-      - Roleplay prompts and intentional silence prompts.
+## 1. Audience and Purpose
 
-4. Read-Aloud Conventions
-   1. Mark all read-aloud text with a bold label, e.g.
-      - `> **Read-Aloud:** The fog curls around your boots...`
-   2. Use present tense, second person (“you”) for sensory immersion: sight, sound, smell, touch, taste.
-   3. Avoid game jargon in read-aloud text (no “DC”, “hit points”, etc.).
+1. The primary audience is a **brand-new, inexperienced DM** with weak improvisational and acting skills.
+2. Every campaign file must be written so that the DM can **read it nearly verbatim** at the table and still deliver a compelling session.
+3. All text must remain **faithful to Curse of Strahd lore and tone** while greatly expanding description, roleplay options, and guidance.
 
-5. Acting & NPCs
-   1. For each important NPC, include a section:
-      - **Personality at a Glance** (3–5 bullets).
-      - **Voice & Mannerisms** (how to sound, posture, pacing).
-      - **What They Want Right Now**.
-      - **Secrets & Fears** (if relevant).
-   2. Provide several sample dialog blocks for key scenes.
-   3. For Strahd, ensure portrayals match the book: a proud, tragic tyrant, charismatic and cruel, treating the characters as playthings or would‑be champions.
+---
 
-6. Player Interaction & Prompts
-   1. Every scene should offer multiple prompts:
-      - Closed questions ("Do you step inside the house?").
-      - Open questions ("What do you do?").
-      - Exploratory hooks ("Who looks at the portraits? Who listens at the door?").
-   2. Mark intentional silences:
-      - `> **Silence Prompt:** Say nothing for 10–15 seconds and make eye contact. Let players speak first.`
-   3. Anticipate likely player choices and give short branching notes.
+## 2. File Scope and Structure
 
-7. Encounters & Checks
-   1. For each encounter, specify:
-      - Recommended party level.
-      - Enemy list (names + where to find full stats in Monster Manual or CoS appendices).
-      - Battlefield description, including terrain and verticality.
-      - Trigger conditions and possible ways to avoid or defuse combat.
-   2. For ability checks / saving throws, include:
-      - Ability & DC (e.g., **DC 13 Wisdom (Perception) check**).
-      - What success and failure mean narratively.
+1. Files are organized under `01-Campaign/`.
+2. There should be **one markdown file per location, chapter, adventure, or clear adventure stage**. Long stages can be split into sequential parts.
+3. Files are numbered in **chronological and level order**, using two-digit prefixes where possible, e.g.:
+   - `01-Into-the-Mists-and-Death-House-Overview.md`
+   - `02-Into-the-Mists-Scene-By-Scene.md`
+   - `03-Death-House-Exterior.md`
+   - `04-Death-House-Interior-Ground-Floor.md`
+   - `05-Death-House-Interior-Upper-Floors-Part-1.md`
+   - `06-Death-House-Interior-Upper-Floors-Part-2.md`
+   - `07-Death-House-Basement-Part-1.md` (planned next), etc.
+4. Each file must be **self-contained**: a DM should be able to open just that file and run that portion of the adventure.
 
-8. Loot, Prices & Economy
-   1. Barovia is poor and grim; magic items are rare.
-   2. Coin rewards are modest unless the book specifies otherwise.
-   3. When adding items, respect tone: tarnished silver, religious icons, homemade charms, etc.
-   4. When listing prices, use PHB/CoS baselines and note Barovia’s scarcity with a markup when appropriate.
+---
 
-9. Campaign Triggers & Optional Content
-   1. Clearly label optional side quests as **Optional Adventure**.
-   2. For each trigger, use a dedicated subheading, e.g., `### 2.3. Campaign Triggers`.
-   3. Include Tarokka-dependent conditions, e.g.
-      - `- If the **Mists** card was drawn for the Enemy**, then ...`
-   4. Provide **Strahd Visit Options**: scripts for if Strahd appears now and if he does not.
+## 3. Formatting Standards
 
-10. Logging & Progress
-   1. After writing new sections, update `agents/writter.md` with a dated log of what was produced or revised.
-   2. Update `agents/progress.md` with:
-      - Section identifier & title.
-      - Status (Draft / Writer‑Revised / Completed).
-   3. Do not alter the critique files of other roles.
+1. Use Markdown with **clear, hierarchical headings** in numeric order:
+   - `# 1. Main Section`
+   - `## 1.1 Subsection`
+   - `### 1.1.1 Sub-subsection`, etc.
+2. Start each file with a short **orientation block** describing:
+   - Where in the campaign this file fits.
+   - What level range it targets.
+   - What locations/major beats it covers.
+3. Use blockquotes (`>`) for **DM read-aloud narration** and any dialogue that can be spoken verbatim.
+4. Clearly label and separate:
+   - **Narration** (for the DM to read).
+   - **Acting Notes** (how to voice and portray NPCs).
+   - **Mechanics** (checks, DCs, saving throws, combats, loot, triggers).
+   - **Prompts** (questions to ask players, including silence prompts).
 
-11. Lore Fidelity
-   1. Always cross‑check locations, names, relationships, and timelines with the markdown book files in `SourceMaterial/Curse of Stahd Book Markdown`.
-   2. Do not contradict established canon from the book.
-   3. Expansions should feel like extended director’s cuts of existing scenes, not rewrites of core events.
+---
+
+## 4. Required Content in Every Scene
+
+For each significant scene, location, or beat, include the following where relevant:
+
+1. **Narration**
+   - Rich, sensory description using **all five senses** (sight, sound, smell, touch, taste when appropriate).
+   - Keep paragraphs short and digestible; the DM will be reading them aloud.
+
+2. **NPC Portrayal and Acting Notes**
+   - How to voice each NPC (tone, pitch, accent hints, pacing).
+   - Key mannerisms and posture.
+   - Emotional baseline (e.g., fearful, arrogant, seductive, broken).
+
+3. **NPC Dialogue**
+   - Provide several **sample lines**, including:
+     - Opening lines.
+     - Likely answers to common questions.
+     - Emotional outbursts or key phrases.
+   - Dialogue should be elaborate but **easy to read aloud**.
+
+4. **Player Interaction Prompts**
+   - Frequently ask, **"What do you do?"** after descriptive beats.
+   - Include both **open-ended prompts** (encouraging exploration and creativity) and **closed-ended prompts** (yes/no or specific options) to support a hesitant group.
+   - Insert **Silence Prompts** where the DM is instructed to **say nothing for a few seconds**, allowing players to fill the space with roleplay.
+
+5. **Likely Player Choices and DM Responses**
+   - For each important moment, list 2–4 **likely player actions** with suggested DM reactions.
+   - This helps the inexperienced DM handle common branches without freezing.
+
+6. **Mechanical Elements**
+   - **Skill Checks:** Always include the ability, skill, and **DC** (e.g. *Wisdom (Perception) DC 13*), with clear outcomes for success and failure.
+   - **Saving Throws:** Specify the triggering event, DC, consequences on success and failure.
+   - **Encounters:**
+     - List all monsters with names, counts, and reference to their official stat blocks (Monster Manual, Curse of Strahd, etc.).
+     - Briefly describe the **battlefield layout**: terrain, cover, hazards, verticality.
+   - **Loot and Prices:**
+     - Detail treasure, mundane items, and their approximate **gp values**.
+     - Note Barovia’s **depressed economy** – most merchants buy at ~half value.
+
+7. **Campaign Triggers and Conditions**
+   - Explicitly note when events depend on things like:
+     - **Tarokka results**.
+     - Prior player choices.
+     - Strahd’s level of interest.
+   - Use a clear label like **Campaign Trigger:** so DMs can spot it quickly.
+
+---
+
+## 5. Tone, Lore, and Strahd
+
+1. **Tone:**
+   - Gothic horror, slow dread, psychological unease.
+   - Violence and terror are present but should be **evocative, not gratuitous**.
+   - Maintain a sense of **melancholy and tragedy**—Barovia is a prison of sorrow.
+
+2. **Lore Fidelity:**
+   - All major characters, locations, and events should remain **consistent with the published Curse of Strahd adventure**.
+   - You may add detail, side NPCs, and optional encounters, but **do not contradict core facts** (Strahd’s nature, major plot beats, geography, etc.).
+
+3. **Strahd’s Presence:**
+   - Add **many optional and required Strahd interaction points**, such as:
+     - Distant laughter, visions in mirrors, ravens reacting nervously.
+     - Direct but brief appearances where he toys with the party.
+   - These should be presented as **modular hooks**, clearly marked as optional so a DM can dial Strahd’s presence up or down.
+   - Ensure every Strahd interaction is **aligned with his interests**:
+     - Testing the party.
+     - Studying potential champions.
+     - Manipulating or punishing Barovians who defy him.
+
+---
+
+## 6. Optional Adventures and Re-Routing
+
+1. Include **optional side adventures** or micro-encounters that:
+   - Reinforce Barovia’s atmosphere.
+   - Provide hooks to steer wandering players back toward the main plot.
+2. Clearly label these as **Optional** and, when relevant, suggest when to use them:
+   - To fill time.
+   - To nudge players back toward a key location or NPC.
+
+Example labeling:
+
+> **Optional Side Scene – The Weeping Widow in the Alley**  
+> Use this if the players drift away from the inn before speaking with [key NPC].
+
+---
+
+## 7. Leveling, Pacing, and Length
+
+1. Assume characters will **start at low level** and progress through early Barovia (Death House, Village of Barovia, etc.).
+2. Your expansions will be **much longer** than the source text—aim comfortably for 50–100x the original word count of a scene when fully elaborated.
+3. Maintain **pacing awareness**:
+   - Alternate between tension and brief relief.
+   - Intermix combat, exploration, and roleplay.
+   - Provide natural points where a session could end.
+
+---
+
+## 8. Role of Silence and Atmosphere
+
+1. Regularly instruct the DM to **pause and be silent** after key descriptions.
+2. These moments of silence are intentional tools to:
+   - Let players absorb the horror.
+   - Encourage them to speak first.
+   - Create unease.
+
+Example:
+
+> **Silence Prompt:**  
+> After reading this description, look at the players and say nothing for 5–10 seconds.
+
+---
+
+## 9. Interaction with Review Roles
+
+1. The Writer creates and maintains:
+   - The campaign files in `01-Campaign/`.
+   - This `writtersguid.md` document.
+   - The `writter.md` log.
+   - The layout and status entries in `progress.md`.
+2. Other roles (Master DM, Inexperienced DM, Player, Editor):
+   - Read both **source material** and **written content**.
+   - Provide **hard criticism** and **scores out of 10** in `agents/progress.md`.
+   - Do **not** edit the campaign text files.
+3. A section is complete only when:
+   - The Writer marks it complete, and all roles score it **≥ 5**, with an overall average **≥ 7**.
+
+---
+
+## 10. Example Scene Pattern
+
+When in doubt, follow this rough pattern for each major scene:
+
+1. **Scene Overview** – 2–5 bullet points about where/when this happens.
+2. **Read-Aloud Entrance Narration** – 1–3 paragraphs.
+3. **Acting Notes for Key NPCs** – short but specific.
+4. **Primary Interaction Options** – likely player actions and DM replies.
+5. **Mechanical Details** – checks, DCs, encounters, loot.
+6. **Strahd/Trigger Hooks** – how this scene might link to Strahd or the broader campaign.
+7. **Exit/Transition Notes** – how to move cleanly into the next file or scene.
+
+Writers should strive for **clarity, completeness, and ease of use at the table** above all.
